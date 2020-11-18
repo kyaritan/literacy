@@ -1,0 +1,15 @@
+
+.table2 {
+  border: 1px solid gray;
+}
+.table2 th, .table2 td {
+  border: 1px solid gray;
+}
+.table2 th {
+  background-color: rgb(238, 79, 79);
+}
+div.example1 {
+    border: thick #ff0000 solid;
+    }
+    
+   
