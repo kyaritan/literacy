@@ -1,0 +1,6 @@
+div.example2 {
+    border-top: 2px #ff0000 solid;
+    border-right: 4px #ff0000 double;
+    border-bottom: 6px #ff0000 dotted;
+    border-left: 8px #ff0000 dashed;
+    }
